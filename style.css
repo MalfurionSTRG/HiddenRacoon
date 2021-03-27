@@ -175,6 +175,11 @@ body {
   color: #ffffff;
 }
 
+.line-through {
+text-decoration: line-through;
+}
+
+
 .page-footer a {
   margin-left: 56px;
   color: inherit;
